@@ -1,6 +1,6 @@
 # Solucionador-Wordle
-Análisis y procesamiento inteligente de textos
+Análisis y procesamiento inteligente de textos.
 Integrantes:
-Rosales Cañedo Daniela Susana
-Suxo Pérez Luis Axel
-Valenzuela Marin Juan
+Rosales Cañedo Daniela Susana.
+Suxo Pérez Luis Axel.
+Valenzuela Marin Juan.
